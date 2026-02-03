@@ -1,0 +1,154 @@
+[
+  {
+    "name": "Fitbit",
+    "categories": ["Fitness"]
+  },
+  {
+    "name": "Garmin",
+    "categories": ["Fitness"]
+  },
+  {
+    "name": "Polar",
+    "categories": ["Fitness"]
+  },
+  {
+    "name": "Siemens Healthcare",
+    "categories": ["Portable Diagnostic Device"]
+  },
+  {
+    "name": "Canary Medical",
+    "categories": ["Portable Diagnostic Device"]
+  },
+  {
+    "name": "Kardia",
+    "categories": ["Portable Diagnostic Device"]
+  },
+  {
+    "name": "Eko",
+    "categories": ["Portable Diagnostic Device"]
+  },
+  {
+    "name": "Tympa Health",
+    "categories": ["Portable Diagnostic Device"]
+  },
+  {
+    "name": "Abridge",
+    "categories": ["Artificial Intelligence"]
+  },
+  {
+    "name": "Suki AI",
+    "categories": ["Artificial Intelligence"]
+  },
+  {
+    "name": "Nabla",
+    "categories": ["Artificial Intelligence"]
+  },
+  {
+    "name": "PathAI",
+    "categories": ["Artificial Intelligence"]
+  },
+  {
+    "name": "Viz.ai",
+    "categories": ["Artificial Intelligence", "Medical Imaging"]
+  },
+  {
+    "name": "Corti.ai",
+    "categories": ["Artificial Intelligence", "Medical Imaging"]
+  },
+  {
+    "name": "DeepMind",
+    "categories": ["Artificial Intelligence", "Medical Imaging"]
+  },
+  {
+    "name": "Qure.ai",
+    "categories": ["Artificial Intelligence", "Medical Imaging"]
+  },
+  {
+    "name": "Butterfly Network",
+    "categories": ["Medical Imaging", "Digital Health Device"]
+  },
+  {
+    "name": "Clarius",
+    "categories": ["Medical Imaging", "Digital Health Device"]
+  },
+  {
+    "name": "Medtronic",
+    "categories": ["Digital Health Device"]
+  },
+  {
+    "name": "Omron",
+    "categories": ["Digital Health Device"]
+  },
+  {
+    "name": "ResMed",
+    "categories": ["Digital Health Device"]
+  },
+  {
+    "name": "Biobeat",
+    "categories": ["Digital Health Device", "Remote Care"]
+  },
+  {
+    "name": "Elvie",
+    "categories": ["Digital Health Device", "Remote Care"]
+  },
+  {
+    "name": "Ada Health",
+    "categories": ["Artificial Intelligence", "Remote Care"]
+  },
+  {
+    "name": "Belong.Life",
+    "categories": ["Artificial Intelligence", "Remote Care"]
+  },
+  {
+    "name": "Teladoc",
+    "categories": ["Remote Care"]
+  },
+  {
+    "name": "Amwell",
+    "categories": ["Remote Care"]
+  },
+  {
+    "name": "Doximity",
+    "categories": ["Remote Care"]
+  },
+  {
+    "name": "Moon Surgical",
+    "categories": ["Robotics"]
+  },
+  {
+    "name": "Ekso",
+    "categories": ["Robotics", "Exoskeleton"]
+  },
+  {
+    "name": "Cyberdyne",
+    "categories": ["Robotics", "Exoskeleton"]
+  },
+  {
+    "name": "Zipline",
+    "categories": ["Medical Transportation"]
+  },
+  {
+    "name": "Calm",
+    "categories": ["Mental Health"]
+  },
+  {
+    "name": "Headspace Health",
+    "categories": ["Mental Health"]
+  },
+  {
+    "name": "Surgical Theater",
+    "categories": ["Mixed Reality", "Education"]
+  },
+  {
+    "name": "AppliedVR",
+    "categories": ["Virtual Reality", "Mental Health"]
+  },
+  {
+    "name": "Cellink",
+    "categories": ["3D Printing"]
+  },
+  {
+    "name": "ActivArmor",
+    "categories": ["3D Printing"]
+  }
+]
